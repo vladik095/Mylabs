@@ -1,0 +1,4 @@
+﻿  laba1-1.6.c
+C:\Users\vladt\Desktop\Ильюшевич В.С Лабораторная 1\laba1-1.6\laba1-1.6\laba1-1.6.c(16,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladt\Desktop\Ильюшевич В.С Лабораторная 1\laba1-1.6\laba1-1.6\laba1-1.6.c(17,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  laba1-1.6.vcxproj -> C:\Users\vladt\Desktop\Ильюшевич В.С Лабораторная 1\laba1-1.6\x64\Debug\laba1-1.6.exe
