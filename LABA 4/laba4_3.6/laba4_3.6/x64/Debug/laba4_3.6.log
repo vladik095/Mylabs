@@ -1,0 +1,10 @@
+﻿  laba4_3.6.cpp
+C:\Users\vladt\Desktop\LABA 4\laba4_3.6\laba4_3.6\laba4_3.6.cpp(22,27): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\vladt\Desktop\LABA 4\laba4_3.6\laba4_3.6\laba4_3.6.cpp(36,37): warning C4552: ">": результат выражения не используется
+C:\Users\vladt\Desktop\LABA 4\laba4_3.6\laba4_3.6\laba4_3.6.cpp(37,58): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\vladt\Desktop\LABA 4\laba4_3.6\laba4_3.6\laba4_3.6.cpp(39,41): warning C4552: ">": результат выражения не используется
+C:\Users\vladt\Desktop\LABA 4\laba4_3.6\laba4_3.6\laba4_3.6.cpp(40,66): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\vladt\Desktop\LABA 4\laba4_3.6\laba4_3.6\laba4_3.6.cpp(49,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vladt\Desktop\LABA 4\laba4_3.6\laba4_3.6\laba4_3.6.cpp(73,46): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\vladt\Desktop\LABA 4\laba4_3.6\laba4_3.6\laba4_3.6.cpp(88,46): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+  laba4_3.6.vcxproj -> C:\Users\vladt\Desktop\LABA 4\laba4_3.6\x64\Debug\laba4_3.6.exe
