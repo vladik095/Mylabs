@@ -1,0 +1,4 @@
+﻿  laba3-3.9.cpp
+C:\Users\vladt\Desktop\LABA 3\laba3-3.9\laba3-3.9\laba3-3.9.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vladt\Desktop\LABA 3\laba3-3.9\laba3-3.9\laba3-3.9.cpp(48,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  laba3-3.9.vcxproj -> C:\Users\vladt\Desktop\LABA 3\laba3-3.9\x64\Debug\laba3-3.9.exe
