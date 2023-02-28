@@ -273,7 +273,6 @@ void menu(anime * an, int size) {
 			case 6: {
 				exit(0);
 			}
-				  printf("\n");
 		}
 	}
 }
