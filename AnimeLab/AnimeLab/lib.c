@@ -280,7 +280,7 @@ void menu(anime * an, int size) {
 
 
 void clearingMemory(anime* an, int size) {
-	free(an);
 	for (int i = 0; i < size; i++) 
 		free(an[i].name);
+	free(an);
 }
