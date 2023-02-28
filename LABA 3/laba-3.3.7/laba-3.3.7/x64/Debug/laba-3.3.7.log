@@ -1,3 +1,0 @@
-﻿  laba-3.3.7.cpp
-C:\Users\vladt\Desktop\LABA 3\laba-3.3.7\laba-3.3.7\laba-3.3.7.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  laba-3.3.7.vcxproj -> C:\Users\vladt\Desktop\LABA 3\laba-3.3.7\x64\Debug\laba-3.3.7.exe

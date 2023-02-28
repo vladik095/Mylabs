@@ -1,3 +1,0 @@
-﻿  laba6-6.1.cpp
-C:\Users\vladt\Desktop\laba6-6.1\laba6-6.1\laba6-6.1.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  laba6-6.1.vcxproj -> C:\Users\vladt\Desktop\laba6-6.1\x64\Debug\laba6-6.1.exe
