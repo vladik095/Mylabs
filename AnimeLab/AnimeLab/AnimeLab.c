@@ -13,6 +13,7 @@ int main() {
 	anime* an = (anime*)malloc(size * sizeof(anime));
 	scanStruct(an, size);
 	menu(an, size);
+	clearingMemory(an, size);
 	return 0;
 }
 
