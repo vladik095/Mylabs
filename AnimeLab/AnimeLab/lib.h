@@ -27,3 +27,4 @@ void volumeYear(int* size);
 void volumeEpisode(int* size);
 void volumeComment(int* size);
 void volumeRating(double* size);
+void clearingMemory(anime* an, int size);
